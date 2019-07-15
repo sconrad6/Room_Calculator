@@ -1,0 +1,11 @@
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/bin/Debug/netcoreapp2.1/Room_Calculator.deps.json
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/bin/Debug/netcoreapp2.1/Room_Calculator.runtimeconfig.json
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/bin/Debug/netcoreapp2.1/Room_Calculator.runtimeconfig.dev.json
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/bin/Debug/netcoreapp2.1/Room_Calculator.dll
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/bin/Debug/netcoreapp2.1/Room_Calculator.pdb
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/obj/Debug/netcoreapp2.1/Room_Calculator.csprojAssemblyReference.cache
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/obj/Debug/netcoreapp2.1/Room_Calculator.csproj.CoreCompileInputs.cache
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/obj/Debug/netcoreapp2.1/Room_Calculator.AssemblyInfoInputs.cache
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/obj/Debug/netcoreapp2.1/Room_Calculator.AssemblyInfo.cs
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/obj/Debug/netcoreapp2.1/Room_Calculator.dll
+/Users/savanahisabella/Projects/Room_Calculator/Room_Calculator/obj/Debug/netcoreapp2.1/Room_Calculator.pdb
