@@ -35,14 +35,7 @@ namespace Room_Calculator
 }
 
 
-/* 1. Promt the user to input data that you are intertested in collecting, by first using a 'Console.WriteLine();' 
- and then using 'Console.ReadLine()' to read the user data into the program
- 2. To do the calculations, methods are created in the RoomCalculator class that uses the data from the user to do the calculations.  
- Volume, area, and perimeter all have their own methods, which are then accessed in the main method.
- 3.  To display the calculations back to the user, an instance of the class RoomCalculator is created, named room1 in this example.
- This creates and instance of the class with the stored data from the user, and uses that to access the volume, area, and perimeter methods.
- A ToString method is also constructed to easily print the area and perimeter of the room using 'Console.WriteLine(room1);' 
- */
+
 
 
 
