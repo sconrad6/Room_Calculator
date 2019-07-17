@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room_Calculator", "Room_Calculator\Room_Calculator.csproj", "{952674C1-18B2-4287-8392-EE683CCE2B5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room_Calculator", "Room_Calculator.csproj", "{1914B6E3-1029-48CE-BB60-CB573A2CD298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{952674C1-18B2-4287-8392-EE683CCE2B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{952674C1-18B2-4287-8392-EE683CCE2B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{952674C1-18B2-4287-8392-EE683CCE2B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{952674C1-18B2-4287-8392-EE683CCE2B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1914B6E3-1029-48CE-BB60-CB573A2CD298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1914B6E3-1029-48CE-BB60-CB573A2CD298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1914B6E3-1029-48CE-BB60-CB573A2CD298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1914B6E3-1029-48CE-BB60-CB573A2CD298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
