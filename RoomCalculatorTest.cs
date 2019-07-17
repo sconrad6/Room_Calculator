@@ -29,7 +29,7 @@ namespace Room_Calculator
                 Console.Write("\nWould you like to calculate for another room? Press 'Y' for yes and 'N' for no.\n");
                 userDecision = Console.ReadKey().KeyChar;
             } while (userDecision == 'Y' || userDecision == 'y');
-            Console.WriteLine("\n\nThank you, and goodbye.");
+            Console.WriteLine("\n\nThank you, and goodbye. ");
         }
     }
 }
